@@ -1,3 +1,4 @@
+source("dependencies.R")
 library(shiny)
 library(quantmod)
 library(DT)
